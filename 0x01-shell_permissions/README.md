@@ -12,7 +12,7 @@
 11. Add execute permission to all subdirectories
 12. Create a directory
 13. Change group owner
-14. 
-15.
-16.
-17.
+14. Owner and group change 
+15. Symbolic links
+16. Change owners
+17. Play Star Wars IV episode
